@@ -1,3 +1,8 @@
+# Generador de Reportes de Rendimiento en Bash - Debian 13
+
+> Proyecto de Aula – Sistemas Operativos  
+> Universidad Fundación Universitaria Compensar
+
 # Proyecto - Generador de Reportes de Rendimiento — Debian 13
 
 ## Resumen
