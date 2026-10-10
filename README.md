@@ -3,8 +3,6 @@
 > Proyecto de Aula – Sistemas Operativos  
 > Universidad Fundación Universitaria Compensar
 
-# Proyecto - Generador de Reportes de Rendimiento — Debian 13
-
 ## Resumen
 
 Este proyecto consiste en un generador de reportes de rendimiento orientado a entornos Linux. La herramienta recopila y monitorea métricas clave del sistema como el uso de CPU, memoria RAM y el estado de los procesos del sistema operativo en intervalos de tiempo predefinidos.
