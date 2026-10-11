@@ -53,5 +53,5 @@ Para ejecutar este script de manera correcta, necesitas:
 ## Modo de Uso
 1. Otorga permisos de ejecución al script principal:
    ```bash
-   chmod +x (`directorio` en el que se encuentra)/generador_reportes.sh
+   chmod +x (directorio en el que se encuentra)/generador_reportes.sh
   
