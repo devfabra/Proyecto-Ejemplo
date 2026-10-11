@@ -17,7 +17,7 @@ INTERVALO=${1:-5}
 ITERACIONES=${2:-12}
 
 echo "=================================================="
-echo " Iniciar Recopilación de Métricas (ps + top)"
+echo " Iniciar Recopilación de Métricas"
 echo "=================================================="
 echo " Intervalo: ${INTERVALO}s | Muestras: ${ITERACIONES}"
 echo " Archivo de salida: $OUTPUT_FILE"
