@@ -65,14 +65,15 @@ Toma una muestra de cada 5 segundos, realizando un total de 12 iteraciones (equi
 
 3. Con parametros personalizados
 Puedes especificar tu propio intervalo en segundos y la cantidad de muestras:
-  ```bash
-  # Sintaxis: ./generador_reportes.sh [intervalo_sengundos] [total_iteraciones]
-  # Ejemplo: tomar una muestra cada 2 segundos, durante 30 iteraciones (1 minuto)
-  ./generador_reportes.sh 2 30
+    ```bash
+    # Sintaxis: ./generador_reportes.sh [intervalo_sengundos] [total_iteraciones]
+    # Ejemplo: tomar una muestra cada 2 segundos, durante 30 iteraciones (1 minuto)
+    ./generador_reportes.sh 2 30
 
 ## Estructura del Repositorio
+
 ```text
-tu-repositorio-sistemas-operativos/
+Generador_Reportes_Rendimiento/
 ├── README.md                 # Documentación del proyecto
 ├── reports/                  # Carpeta de salida para los reportes CSV
 │   └── (archivos generados automáticamente)
