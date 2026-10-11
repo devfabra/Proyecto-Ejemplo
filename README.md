@@ -57,7 +57,7 @@ Para ejecutar este script de manera correcta, necesitas:
 
 Se puede ejecutar el script de dos maneras:
 
-1.1 Con valores predeterminados
+2. Con valores predeterminados
 Toma una muestra de cada 5 segundos, realizando un total de 12 iteraciones (equivalente a 1 minuto de monitoreo):
   ```bash
   ./generator_reportes.sh 
