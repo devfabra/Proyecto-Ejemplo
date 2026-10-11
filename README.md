@@ -49,3 +49,9 @@ Para ejecutar este script de manera correcta, necesitas:
    ```bash
    git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
    cd tu-repositorio
+
+## Modo de Uso
+1. Otorga permisos de ejecución al script principal:
+   ```bash
+   chmod +x (`directorio` en el que se encuentra)/generador_reportes.sh
+  
