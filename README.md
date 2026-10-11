@@ -54,4 +54,11 @@ Para ejecutar este script de manera correcta, necesitas:
 1. Otorga permisos de ejecución al script principal:
    ```bash
    chmod +x (directorio en el que se encuentra)/generador_reportes.sh
+
+Se puede ejecutar el script de dos maneras:
+
+1.1 Con valores predeterminados
+Toma una muestra de cada 5 segundos, realizando un total de 12 iteraciones (equivalente a 1 minuto de monitoreo):
+  ```bash
+  ./generator_reportes.sh 
   
