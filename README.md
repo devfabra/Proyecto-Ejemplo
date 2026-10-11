@@ -59,7 +59,7 @@ Se puede ejecutar el script de dos maneras:
 
 2. Con valores predeterminados
 Toma una muestra de cada 5 segundos, realizando un total de 12 iteraciones (equivalente a 1 minuto de monitoreo):
-   ```bash
+  ```bash
    ./generator_reportes.sh
 
 3. Con parametros personalizados
