@@ -10,7 +10,7 @@
 export LC_ALL=C
 
 # Nombre del archivo CSV de salida con marca de tiempo
-OUTPUT_FILE="reporte_rendimiento_$(date +%Y%m%d_%H%M%S).csv"
+OUTPUT_FILE="reports/reporte_rendimiento_$(date +%Y%m%d_%H%M%S).csv"
 
 # Parámetros configurables (por defecto: 5 segundos, 12 iteraciones = 1 minuto)
 INTERVALO=${1:-5}
