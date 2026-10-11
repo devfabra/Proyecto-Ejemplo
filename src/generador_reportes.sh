@@ -9,8 +9,11 @@
 # Forzar idioma inglés para estandarizar las salidas de los comandos
 export LC_ALL=C
 
+REPORTS_DIR="../reports"
+mkdir -p "$REPORTS_DIR"
+
 # Nombre del archivo CSV de salida con marca de tiempo
-OUTPUT_FILE="reports/reporte_rendimiento_$(date +%Y%m%d_%H%M%S).csv"
+OUTPUT_FILE="$REPORTS_DIR/reporte_rendimiento_$(date +%Y%m%d_%H%M%S).csv"
 
 # Parámetros configurables (por defecto: 5 segundos, 12 iteraciones = 1 minuto)
 INTERVALO=${1:-5}
