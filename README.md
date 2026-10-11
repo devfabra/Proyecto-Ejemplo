@@ -51,9 +51,10 @@ Para ejecutar este script de manera correcta, necesitas:
    cd tu-repositorio
 
 ## Modo de Uso
-1. Otorga permisos de ejecución al script principal:
+
+1. **Otorga permisos de ejecución** al script principal (asegúrate de estar en la raíz del proyecto):
    ```bash
-   chmod +x (directorio en el que se encuentra)/generador_reportes.sh
+   chmod +x src/generador_reportes.sh
 
 Se puede ejecutar el script de dos maneras:
 
