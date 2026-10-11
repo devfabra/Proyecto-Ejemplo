@@ -20,12 +20,12 @@ Script automatizado desarrollado en Bash para la recolección, estructuración y
 
 ---
 
-## 🚀 Acerca del Proyecto
+## Acerca del Proyecto
 Este proyecto surge como una herramienta práctica para la asignatura de **Sistemas Operativos**. Su objetivo principal es monitorear el comportamiento del kernel y la asignación de recursos hardware en tiempo real. Permite automatizar la toma de muestras de rendimiento para su posterior análisis cuantitativo en hojas de cálculo (Excel, Google Sheets, Python/Pandas, etc.).
 
 ---
 
-## ✨ Características Principales
+## Características Principales
 * **Monitoreo Multicomponente:** Captura simultáneamente estadísticas de carga del CPU (usuario, sistema, inactivo), consumo de memoria RAM (usada/libre en MB) y el proceso con mayor demanda de recursos.
 * **Portabilidad Lingüística:** Configurado con localización estándar (`LC_ALL=C`) para evitar fallos de sintaxis en comandos del sistema independientemente del idioma del sistema operativo.
 * **Estructura CSV Limpia:** Exporta los datos con marcas de tiempo (`Timestamp`) separados por comas y delimitados por comillas para asegurar la integridad de las cadenas de texto.
@@ -33,7 +33,7 @@ Este proyecto surge como una herramienta práctica para la asignatura de **Siste
 
 ---
 
-## 🛠 Prerrequisitos y Dependencias
+## Prerrequisitos y Dependencias
 Para ejecutar este script de manera correcta, necesitas:
 * Un entorno operativo basado en **Linux** o sistemas tipo UNIX con intérprete **Bash** instalado.
 * Las siguientes utilidades del sistema (generalmente vienen preinstaladas en la mayoría de distribuciones):
@@ -44,7 +44,7 @@ Para ejecutar este script de manera correcta, necesitas:
 
 ---
 
-## 📥 Instalación
+## Instalación
 1. Clona este repositorio en tu máquina local:
    ```bash
    git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
